@@ -1,11 +1,9 @@
 ### 🦸🏻‍♂️  About Me
 
- 👋🏼  Hi I'm KonKon
- 
- 😍 i love：
-🦀 Rust
-🐧 Linux
+- Arch User
+- Linux Lover
+- Android Developer
 
-✉️  [Email](black1201wk@outlook.com)
+[Email](black1201wk@outlook.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Blackwen=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[Blog](https://www.lilkon.cn/)
