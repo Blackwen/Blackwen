@@ -11,5 +11,5 @@
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Blackwen&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackwen&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackwen"/>
 </div>
