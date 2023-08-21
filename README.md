@@ -10,6 +10,6 @@
 [我的博客](https://www.lilkon.cn/)
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Blackwen&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Blackwen&show_icons=true&line_height=40"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackwen"/>
 </div>
