@@ -32,18 +32,18 @@
 
 <!-- START_SECTION:blog -->
 ##### Kotln Jetpack-Compose 
+* <a href='https://www.lilkon.cn/posts/jetpack-compose-some-cards/' target='_blank'>JetpackCompose组件介绍-Card</a> - 2023-08-27
 * <a href='https://www.lilkon.cn/posts/jetpack-compose-all-button/' target='_blank'>JetpackCompose组件介绍-Button</a> - 2023-08-24
 * <a href='https://www.lilkon.cn/posts/set-up-jetpack-compose/' target='_blank'>Jetpack Compose入门笔记-配置依赖</a> - 2023-08-22
-##### Linux和日常
+##### Other
 * <a href='https://www.lilkon.cn/posts/omz-plugins/' target='_blank'>Oh-my-zsh 插件推荐</a> - 2023-08-12
 * <a href='https://www.lilkon.cn/posts/install-deb-on-archlinux/' target='_blank'>在Arch Linux上安裝deb格式包</a> - 2023-01-23
-* <a href='https://www.lilkon.cn/posts/one-hundred-years-of-solitude-character-relationship/' target='_blank'>百年孤独人物关系</a> - 2022-12-28
 <!-- END_SECTION:blog -->
 </td>
   
 <td valign="top">
 
-#### 📝 <a href="https://movie.douban.com/people/znyalor/collect" target="_blank">What i am doing</a>
+#### 📝 <a href="https://www.lilkon.cn/about/" target="_blank">What i am doing</a>
 
 <!-- START_SECTION:douban -->
 ##### 阅读
