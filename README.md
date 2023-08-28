@@ -33,6 +33,7 @@
 
 <!-- START_SECTION:blog -->
 ##### Kotln Jetpack-Compose 
+* <a href='https://www.lilkon.cn/posts/jetpack-compose-buttom-app-bar/' target='_blank'>JetpackCompose组件介绍-Buttom app bar</a> - 2023-08-28
 * <a href='https://www.lilkon.cn/posts/jetpack-compose-some-cards/' target='_blank'>JetpackCompose组件介绍-Card</a> - 2023-08-27
 * <a href='https://www.lilkon.cn/posts/jetpack-compose-all-button/' target='_blank'>JetpackCompose组件介绍-Button</a> - 2023-08-24
 * <a href='https://www.lilkon.cn/posts/set-up-jetpack-compose/' target='_blank'>Jetpack Compose入门笔记-配置依赖</a> - 2023-08-22
